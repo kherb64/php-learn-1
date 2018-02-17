@@ -6,5 +6,5 @@
  * Time: 13:56
  */
 
-$employee_name = $_GET["employee"];
+$employee_name = $_POST["employee"];
 print $employee_name;
