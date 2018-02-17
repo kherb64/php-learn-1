@@ -6,5 +6,5 @@
  * Time: 15:52
  */
 
-echo "switch<br />";
-include "src/1keydata/switch.php";
+include "switch.php";
+include "loops.php";

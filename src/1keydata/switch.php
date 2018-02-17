@@ -8,6 +8,8 @@
  *
  */
 
+echo "switch<br />";
+
 learn_switch(10);
 learn_switch(25);
 learn_switch(20);
