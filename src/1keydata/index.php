@@ -8,4 +8,4 @@
 
 include "switch.php";
 include "loops.php";
-include "forms/query.php";
+include "forms/query.html";
